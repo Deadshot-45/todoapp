@@ -1,31 +1,68 @@
-# **Project README**
+**iTask - Arrange Your Task**
+=====================================
 
-## **Project Overview**
+**Overview**
+------------
 
-- This project aims to provide a helpful AI assistant.
-- The assistant is designed to answer questions and provide information in a structured format.
+iTask is a task management application designed to help users organize and prioritize their tasks efficiently. This repository contains the source code for the iTask web application.
 
-## **Getting Started**
+**Features**
+------------
 
-- To use the assistant, simply ask a question or provide context for the assistant to respond to.
-- The assistant will respond with a structured answer, including bold sub-headers and bullet points.
+* Task management system
+* User-friendly interface
+* Responsive design for various devices
+* Prioritization and organization of tasks
 
-## **Features**
+**Technical Details**
+--------------------
 
-- Answers questions in a structured format
-- Provides information on a wide range of topics
-- Uses bold sub-headers and bullet points for clarity
+* **Frontend**: Built using React (main.jsx)
+* **HTML Structure**: Based on HTML5 standards
+* **CSS**: Utilizes CSS3 for styling and layout
+* **Icon**: Uses an SVG icon from svgrepo.com
 
-## **Usage**
+**Getting Started**
+-------------------
 
-- Ask a question or provide context for the assistant to respond to.
-- The assistant will respond with a structured answer.
+### Prerequisites
 
-## **Contributing**
+* Node.js installed on your system
+* A code editor or IDE of your choice
 
-- Contributions are welcome! If you have any suggestions or ideas for improving the assistant, please let us know.
-- Pull requests and issues can be submitted through the project repository.
+### Installation
 
-## **License**
+1. Clone the repository using `git clone`
+2. Navigate to the project directory
+3. Install dependencies using `npm install` or `yarn install`
+4. Start the development server using `npm start` or `yarn start`
 
-- This project is licensed under [insert license here].
+### Build and Deployment
+
+* Build the application using `npm run build` or `yarn build`
+* Deploy the application to your preferred hosting platform
+
+**Contributing**
+--------------
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Make changes and commit them
+4. Open a pull request to the main branch
+
+**License**
+----------
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+**Acknowledgments**
+------------------
+
+* svgrepo.com for the icon used in the application
+
+**Contact**
+----------
+
+If you have any questions or need help with the project, feel free to reach out to us at [mayanksahu8179@example.com](mailto:mayanksahu8179@example.com).
