@@ -1,0 +1,1 @@
+export const getLs = localStorage.getItem("todos")
